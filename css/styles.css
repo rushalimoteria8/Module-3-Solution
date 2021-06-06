@@ -1,0 +1,96 @@
+body {
+  font-size: 16px;
+  color: #1A1615;
+  background-color: #C9C7C7;
+  font-family: 'Oswald', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #2FA5A9;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 20px;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Mate SC', serif;
+  color: #FFFFFF;
+  font-size: 1.7em;
+  font-weight: bold;
+  text-shadow: 1px 2px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .5;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+  background-color: #62B6B8;
+  border: 1px solid #155D5F;
+}
+
+#nav-list a {
+  color: #FFFFFF;
+  text-align: center;
+  border-bottom: 1px solid #155D5F;
+}
+
+#nav-list a:hover {
+  background: #1A1615;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #155D5F;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+  border: 2px solid #155D5F;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+
+
+#page-heading {
+  font-size: 30px;
+  color: #000000;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+div#content{
+	background-color: #2FA5A9;
+	padding: 20px;
+	height: 2500px;
+	margin-left: 25px;
+	margin-right: 25px;
+	font-size: 18px;
+	color: #FFFFFF;
+}
+
+#h1, #h2, #h3{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+
+#Chicken a, #Beef a, #Sushi a{
+	color: #C9C7C7;
+}
+
+
+
